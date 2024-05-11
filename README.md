@@ -2,7 +2,6 @@
 
 This Python script allows users to play Sudoku using a graphical user interface (GUI) built with Tkinter. Sudoku is a popular logic-based puzzle game where the objective is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids contains all of the digits from 1 to 9.
 
-## How to Play
 
 ### Features:
 
