@@ -60,4 +60,4 @@ This Python script allows users to play Sudoku using a graphical user interface 
 
 ## Contributing:
 
-Contributions to this project are welcome. If you have any suggestions, bug fixes, or feature enhancements, feel free to submit a pull request.
+Contributions to this project are welcome. If you have any suggestions, bug fixes, or feature enhancements, feel free to submit a pull request. 
